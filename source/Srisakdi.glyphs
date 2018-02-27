@@ -16935,9 +16935,19 @@ unicode = 03C0;
 {
 color = 3;
 glyphname = "koKai-thai";
-lastChange = "2018-02-27 04:51:41 +0000";
+lastChange = "2018-02-27 14:38:00 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{490, 0}";
+},
+{
+name = top;
+position = "{480, 510}";
+}
+);
 background = {
 paths = (
 {
@@ -17105,9 +17115,19 @@ unicode = 0E01;
 {
 color = 3;
 glyphname = "thoThung-thai";
-lastChange = "2018-02-27 04:58:46 +0000";
+lastChange = "2018-02-27 14:38:08 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{494, 0}";
+},
+{
+name = top;
+position = "{484, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -17347,9 +17367,19 @@ unicode = 0E16;
 {
 color = 3;
 glyphname = "phoSamphao-thai";
-lastChange = "2018-02-27 04:58:46 +0000";
+lastChange = "2018-02-27 14:38:15 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{512, 0}";
+},
+{
+name = top;
+position = "{502, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -17586,9 +17616,19 @@ unicode = 0E20;
 {
 color = 3;
 glyphname = "ru-thai";
-lastChange = "2018-02-27 04:58:46 +0000";
+lastChange = "2018-02-27 14:39:15 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{494, -190}";
+},
+{
+name = top;
+position = "{484, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -17826,9 +17866,19 @@ unicode = 0E24;
 {
 color = 3;
 glyphname = "ru-thai.short";
-lastChange = "2018-02-27 04:58:46 +0000";
+lastChange = "2018-02-27 14:39:12 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{494, -190}";
+},
+{
+name = top;
+position = "{484, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -17939,9 +17989,19 @@ rightMetricsKey = "koKai-thai";
 {
 color = 3;
 glyphname = "lu-thai";
-lastChange = "2018-02-27 04:58:46 +0000";
+lastChange = "2018-02-27 14:39:06 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{512, -190}";
+},
+{
+name = top;
+position = "{502, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -18172,9 +18232,19 @@ unicode = 0E26;
 {
 color = 3;
 glyphname = "lu-thai.short";
-lastChange = "2018-02-27 04:58:46 +0000";
+lastChange = "2018-02-27 14:39:02 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{512, -190}";
+},
+{
+name = top;
+position = "{502, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -18285,9 +18355,19 @@ rightMetricsKey = "koKai-thai";
 {
 color = 3;
 glyphname = "doChada-thai";
-lastChange = "2018-02-27 04:58:46 +0000";
+lastChange = "2018-02-27 14:39:38 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{512, -190}";
+},
+{
+name = top;
+position = "{502, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -18612,9 +18692,19 @@ unicode = 0E0E;
 {
 color = 3;
 glyphname = "doChada-thai.short";
-lastChange = "2018-02-27 04:58:46 +0000";
+lastChange = "2018-02-27 14:39:43 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{512, -190}";
+},
+{
+name = top;
+position = "{502, 510}";
+}
+);
 background = {
 paths = (
 {
@@ -19067,9 +19157,19 @@ rightMetricsKey = "koKai-thai";
 {
 color = 3;
 glyphname = "toPatak-thai";
-lastChange = "2018-02-27 04:58:46 +0000";
+lastChange = "2018-02-27 14:39:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{512, -190}";
+},
+{
+name = top;
+position = "{502, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -19423,9 +19523,19 @@ unicode = 0E0F;
 {
 color = 3;
 glyphname = "toPatak-thai.short";
-lastChange = "2018-02-27 04:58:46 +0000";
+lastChange = "2018-02-27 14:39:48 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{512, -190}";
+},
+{
+name = top;
+position = "{502, 510}";
+}
+);
 background = {
 paths = (
 {
@@ -20354,9 +20464,15 @@ rightMetricsKey = "koKai-thai";
 {
 color = 3;
 glyphname = "yoYing-thai";
-lastChange = "2018-02-27 04:58:46 +0000";
+lastChange = "2018-02-27 14:39:59 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{752, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -20771,9 +20887,19 @@ unicode = 0E0D;
 {
 color = 3;
 glyphname = "yoYing-thai.less";
-lastChange = "2018-02-27 04:58:46 +0000";
+lastChange = "2018-02-27 14:40:14 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{752, 0}";
+},
+{
+name = top;
+position = "{752, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -21083,9 +21209,19 @@ rightMetricsKey = "boBaimai-thai";
 },
 {
 glyphname = "khoKhai-thai";
-lastChange = "2018-02-27 10:20:05 +0000";
+lastChange = "2018-02-27 14:40:27 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{522, 0}";
+},
+{
+name = top;
+position = "{522, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -21271,9 +21407,19 @@ unicode = 0E02;
 },
 {
 glyphname = "khoKhuat-thai";
-lastChange = "2018-02-27 10:20:05 +0000";
+lastChange = "2018-02-27 14:40:33 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{523, 0}";
+},
+{
+name = top;
+position = "{523, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -21482,9 +21628,19 @@ unicode = 0E03;
 },
 {
 glyphname = "choChang-thai";
-lastChange = "2018-02-27 04:58:46 +0000";
+lastChange = "2018-02-27 14:40:37 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{522, 0}";
+},
+{
+name = top;
+position = "{522, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -21695,9 +21851,19 @@ unicode = 0E0A;
 },
 {
 glyphname = "soSo-thai";
-lastChange = "2018-02-27 04:58:45 +0000";
+lastChange = "2018-02-27 14:40:44 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{523, 0}";
+},
+{
+name = top;
+position = "{523, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -21938,9 +22104,19 @@ unicode = 0E0B;
 },
 {
 glyphname = "khoKhwai-thai";
-lastChange = "2018-02-27 04:58:45 +0000";
+lastChange = "2018-02-27 14:40:57 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{526, 0}";
+},
+{
+name = top;
+position = "{516, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -22151,9 +22327,19 @@ unicode = 0E04;
 },
 {
 glyphname = "khoKhon-thai";
-lastChange = "2018-02-27 10:20:05 +0000";
+lastChange = "2018-02-27 14:41:11 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{526, 0}";
+},
+{
+name = top;
+position = "{516, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -22384,9 +22570,19 @@ unicode = 0E05;
 },
 {
 glyphname = "soSala-thai";
-lastChange = "2018-02-27 04:58:45 +0000";
+lastChange = "2018-02-27 14:41:15 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{526, 0}";
+},
+{
+name = top;
+position = "{526, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -22644,9 +22840,19 @@ unicode = 0E28;
 },
 {
 glyphname = "doDek-thai";
-lastChange = "2018-02-27 04:58:45 +0000";
+lastChange = "2018-02-27 14:41:23 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{510, 0}";
+},
+{
+name = top;
+position = "{500, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -22956,9 +23162,19 @@ unicode = 0E14;
 },
 {
 glyphname = "toTao-thai";
-lastChange = "2018-02-27 04:58:45 +0000";
+lastChange = "2018-02-27 14:41:29 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{510, 0}";
+},
+{
+name = top;
+position = "{500, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -23449,9 +23665,19 @@ unicode = 0E15;
 },
 {
 glyphname = "thoThahan-thai";
-lastChange = "2018-02-27 04:58:45 +0000";
+lastChange = "2018-02-27 14:41:33 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{525, 0}";
+},
+{
+name = top;
+position = "{525, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -23636,9 +23862,19 @@ unicode = 0E17;
 },
 {
 glyphname = "thoNangmontho-thai";
-lastChange = "2018-02-27 04:58:45 +0000";
+lastChange = "2018-02-27 14:41:38 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{682, 0}";
+},
+{
+name = top;
+position = "{682, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -23888,9 +24124,19 @@ unicode = 0E11;
 },
 {
 glyphname = "noNu-thai";
-lastChange = "2018-02-27 10:20:05 +0000";
+lastChange = "2018-02-27 14:41:43 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{450, 0}";
+},
+{
+name = top;
+position = "{450, 510}";
+}
+);
 background = {
 paths = (
 {
@@ -24284,9 +24530,19 @@ unicode = 0E19;
 },
 {
 glyphname = "moMa-thai";
-lastChange = "2018-02-27 04:50:14 +0000";
+lastChange = "2018-02-27 14:41:48 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{470, 0}";
+},
+{
+name = top;
+position = "{470, 510}";
+}
+);
 background = {
 paths = (
 {
@@ -24568,9 +24824,19 @@ unicode = 0E21;
 },
 {
 glyphname = "choChoe-thai";
-lastChange = "2018-02-27 04:58:45 +0000";
+lastChange = "2018-02-27 14:41:55 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{742, 0}";
+},
+{
+name = top;
+position = "{742, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -24918,9 +25184,19 @@ unicode = 0E0C;
 },
 {
 glyphname = "noNen-thai";
-lastChange = "2018-02-27 04:58:45 +0000";
+lastChange = "2018-02-27 14:42:02 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{742, 0}";
+},
+{
+name = top;
+position = "{742, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -25269,9 +25545,19 @@ unicode = 0E13;
 },
 {
 glyphname = "thoPhuthao-thai";
-lastChange = "2018-02-27 04:50:14 +0000";
+lastChange = "2018-02-27 14:42:07 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{754, 0}";
+},
+{
+name = top;
+position = "{754, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -25649,9 +25935,19 @@ unicode = 0E12;
 },
 {
 glyphname = "khoRakhang-thai";
-lastChange = "2018-02-27 04:58:45 +0000";
+lastChange = "2018-02-27 14:42:11 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{605, 0}";
+},
+{
+name = top;
+position = "{605, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -25932,9 +26228,19 @@ unicode = 0E06;
 },
 {
 glyphname = "thoThong-thai";
-lastChange = "2018-02-27 12:55:47 +0000";
+lastChange = "2018-02-27 14:42:22 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{414, 0}";
+},
+{
+name = top;
+position = "{454, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -26103,9 +26409,19 @@ unicode = 0E18;
 },
 {
 glyphname = "roRua-thai";
-lastChange = "2018-02-27 10:20:05 +0000";
+lastChange = "2018-02-27 14:42:33 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{302, 0}";
+},
+{
+name = top;
+position = "{352, 510}";
+}
+);
 background = {
 paths = (
 {
@@ -26295,9 +26611,19 @@ unicode = 0E23;
 },
 {
 glyphname = "choChan-thai";
-lastChange = "2018-02-27 04:58:45 +0000";
+lastChange = "2018-02-27 14:42:40 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{449, 0}";
+},
+{
+name = top;
+position = "{449, 510}";
+}
+);
 background = {
 paths = (
 {
@@ -26514,9 +26840,19 @@ unicode = 0E08;
 },
 {
 glyphname = "woWaen-thai";
-lastChange = "2018-02-27 04:58:45 +0000";
+lastChange = "2018-02-27 14:43:00 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{366, 0}";
+},
+{
+name = top;
+position = "{378, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -26685,9 +27021,19 @@ unicode = 0E27;
 },
 {
 glyphname = "ngoNgu-thai";
-lastChange = "2018-02-27 10:20:05 +0000";
+lastChange = "2018-02-27 14:43:06 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{388, 0}";
+},
+{
+name = top;
+position = "{388, 510}";
+}
+);
 background = {
 paths = (
 {
@@ -26835,9 +27181,15 @@ unicode = 0E07;
 },
 {
 glyphname = "thoThan-thai";
-lastChange = "2018-02-27 04:58:45 +0000";
+lastChange = "2018-02-27 14:43:15 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{449, 510}";
+}
+);
 background = {
 paths = (
 {
@@ -27831,9 +28183,19 @@ unicode = 0E10;
 },
 {
 glyphname = "thoThan-thai.less";
-lastChange = "2018-02-27 04:58:45 +0000";
+lastChange = "2018-02-27 14:43:19 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{449, 0}";
+},
+{
+name = top;
+position = "{449, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -27968,9 +28330,19 @@ note = "thoThan-thai.less";
 },
 {
 glyphname = "choChing-thai";
-lastChange = "2018-02-27 10:20:05 +0000";
+lastChange = "2018-02-27 14:43:26 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{450, 0}";
+},
+{
+name = top;
+position = "{440, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -28285,9 +28657,19 @@ unicode = 0E09;
 },
 {
 glyphname = "loLing-thai";
-lastChange = "2018-02-27 04:58:45 +0000";
+lastChange = "2018-02-27 14:43:33 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{467, 0}";
+},
+{
+name = top;
+position = "{457, 510}";
+}
+);
 background = {
 paths = (
 {
@@ -28834,9 +29216,19 @@ unicode = 0E25;
 },
 {
 glyphname = "soSua-thai";
-lastChange = "2018-02-27 04:58:45 +0000";
+lastChange = "2018-02-27 14:43:38 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{467, 0}";
+},
+{
+name = top;
+position = "{467, 510}";
+}
+);
 background = {
 paths = (
 {
@@ -29989,9 +30381,19 @@ unicode = 0E1B;
 },
 {
 glyphname = "soRusi-thai";
-lastChange = "2018-02-27 04:58:45 +0000";
+lastChange = "2018-02-27 14:43:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{502, 0}";
+},
+{
+name = top;
+position = "{502, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -30281,9 +30683,19 @@ unicode = 0E29;
 },
 {
 glyphname = "yoYak-thai";
-lastChange = "2018-02-27 10:20:05 +0000";
+lastChange = "2018-02-27 14:43:52 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{486, 0}";
+},
+{
+name = top;
+position = "{486, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -30517,9 +30929,19 @@ unicode = 0E22;
 },
 {
 glyphname = "phoPhung-thai";
-lastChange = "2018-02-27 10:20:05 +0000";
+lastChange = "2018-02-27 14:43:58 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{534, 0}";
+},
+{
+name = top;
+position = "{534, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -30700,9 +31122,19 @@ unicode = 0E1C;
 },
 {
 glyphname = "foFa-thai";
-lastChange = "2018-02-27 10:20:05 +0000";
+lastChange = "2018-02-27 14:44:13 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{534, 0}";
+},
+{
+name = top;
+position = "{404, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -30882,9 +31314,19 @@ unicode = 0E1D;
 },
 {
 glyphname = "foFan-thai";
-lastChange = "2018-02-27 10:20:05 +0000";
+lastChange = "2018-02-27 14:44:26 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{517, 0}";
+},
+{
+name = top;
+position = "{387, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -31097,9 +31539,19 @@ unicode = 0E1F;
 },
 {
 glyphname = "phoPhan-thai";
-lastChange = "2018-02-27 10:20:05 +0000";
+lastChange = "2018-02-27 14:44:30 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{517, 0}";
+},
+{
+name = top;
+position = "{517, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -31295,9 +31747,19 @@ unicode = 0E1E;
 },
 {
 glyphname = "hoHip-thai";
-lastChange = "2018-02-27 05:32:31 +0000";
+lastChange = "2018-02-27 14:44:34 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{494, 0}";
+},
+{
+name = top;
+position = "{494, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -31888,9 +32350,15 @@ unicode = 0E2B;
 },
 {
 glyphname = "loChula-thai";
-lastChange = "2018-02-27 04:58:45 +0000";
+lastChange = "2018-02-27 14:44:42 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{517, 0}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -32238,9 +32706,19 @@ unicode = 0E2C;
 },
 {
 glyphname = "loChula-thai.short";
-lastChange = "2018-02-27 04:58:45 +0000";
+lastChange = "2018-02-27 14:44:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{517, 0}";
+},
+{
+name = top;
+position = "{517, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -32584,9 +33062,19 @@ note = "loChula-thai.short";
 },
 {
 glyphname = "oAng-thai";
-lastChange = "2018-02-27 04:58:45 +0000";
+lastChange = "2018-02-27 14:44:55 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{459, 0}";
+},
+{
+name = top;
+position = "{449, 510}";
+}
+);
 background = {
 paths = (
 {
@@ -32968,9 +33456,19 @@ unicode = 0E2D;
 },
 {
 glyphname = "hoNokhuk-thai";
-lastChange = "2018-02-27 04:51:41 +0000";
+lastChange = "2018-02-27 14:44:59 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{459, 0}";
+},
+{
+name = top;
+position = "{459, 510}";
+}
+);
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
@@ -33411,7 +33909,7 @@ unicode = 0E32;
 },
 {
 glyphname = "saraAm-thai";
-lastChange = "2018-02-27 04:51:41 +0000";
+lastChange = "2018-02-27 14:45:18 +0000";
 layers = (
 {
 components = (
