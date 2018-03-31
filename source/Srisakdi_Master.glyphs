@@ -225,6 +225,7 @@ alignmentZones = (
 );
 ascender = 800;
 capHeight = 700;
+customValue = 1;
 customParameters = (
 {
 name = typoAscender;
@@ -348,7 +349,7 @@ GSOffsetHorizontal = -23;
 GSOffsetVertical = 0;
 };
 weightValue = 400;
-widthValue = 10;
+widthValue = 5;
 xHeight = 510;
 },
 {
@@ -363,6 +364,7 @@ alignmentZones = (
 );
 ascender = 800;
 capHeight = 700;
+customValue = 1;
 customParameters = (
 {
 name = typoAscender;
@@ -415,7 +417,7 @@ GSOffsetVertical = 10;
 };
 weight = Bold;
 weightValue = 700;
-widthValue = 10;
+widthValue = 5;
 xHeight = 510;
 }
 );
@@ -157958,8 +157960,9 @@ name = Bold;
 weightClass = Bold;
 },
 {
+interpolationCustom = 1;
 interpolationWeight = 400;
-interpolationWidth = 10;
+interpolationWidth = 5;
 instanceInterpolations = {
 "ABD527B9-6A15-4DFC-A02C-7E82F6B448F4" = 1;
 };
@@ -157968,8 +157971,9 @@ linkStyle = Regular;
 name = Italic;
 },
 {
+interpolationCustom = 1;
 interpolationWeight = 700;
-interpolationWidth = 10;
+interpolationWidth = 5;
 instanceInterpolations = {
 "EDD23B95-4AEC-4D2F-8078-5BE7F3E4CE02" = 1;
 };
