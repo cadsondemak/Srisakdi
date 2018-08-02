@@ -1,0 +1,2238 @@
+@font-face {
+    font-family: 'SrisakdiThinItalic';
+    src: url('./fonts/Srisakdi-ThinItalic.eot');
+    src: url('./fonts/Srisakdi-ThinItalic.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-ThinItalic.woff2') format('woff2'),
+         url('./fonts/Srisakdi-ThinItalic.woff') format('woff'),
+         url('./fonts/Srisakdi-ThinItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiExtraLightItalic';
+    src: url('./fonts/Srisakdi-ExtraLightItalic.eot');
+    src: url('./fonts/Srisakdi-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-ExtraLightItalic.woff2') format('woff2'),
+         url('./fonts/Srisakdi-ExtraLightItalic.woff') format('woff'),
+         url('./fonts/Srisakdi-ExtraLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiLightItalic';
+    src: url('./fonts/Srisakdi-LightItalic.eot');
+    src: url('./fonts/Srisakdi-LightItalic.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-LightItalic.woff2') format('woff2'),
+         url('./fonts/Srisakdi-LightItalic.woff') format('woff'),
+         url('./fonts/Srisakdi-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiItalic';
+    src: url('./fonts/Srisakdi-Italic.eot');
+    src: url('./fonts/Srisakdi-Italic.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-Italic.woff2') format('woff2'),
+         url('./fonts/Srisakdi-Italic.woff') format('woff'),
+         url('./fonts/Srisakdi-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiMediumItalic';
+    src: url('./fonts/Srisakdi-MediumItalic.eot');
+    src: url('./fonts/Srisakdi-MediumItalic.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-MediumItalic.woff2') format('woff2'),
+         url('./fonts/Srisakdi-MediumItalic.woff') format('woff'),
+         url('./fonts/Srisakdi-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiSemiBoldItalic';
+    src: url('./fonts/Srisakdi-SemiBoldItalic.eot');
+    src: url('./fonts/Srisakdi-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-SemiBoldItalic.woff2') format('woff2'),
+         url('./fonts/Srisakdi-SemiBoldItalic.woff') format('woff'),
+         url('./fonts/Srisakdi-SemiBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiBoldItalic';
+    src: url('./fonts/Srisakdi-BoldItalic.eot');
+    src: url('./fonts/Srisakdi-BoldItalic.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-BoldItalic.woff2') format('woff2'),
+         url('./fonts/Srisakdi-BoldItalic.woff') format('woff'),
+         url('./fonts/Srisakdi-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiExtraBoldItalic';
+    src: url('./fonts/Srisakdi-ExtraBoldItalic.eot');
+    src: url('./fonts/Srisakdi-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-ExtraBoldItalic.woff2') format('woff2'),
+         url('./fonts/Srisakdi-ExtraBoldItalic.woff') format('woff'),
+         url('./fonts/Srisakdi-ExtraBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiBlackItalic';
+    src: url('./fonts/Srisakdi-BlackItalic.eot');
+    src: url('./fonts/Srisakdi-BlackItalic.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-BlackItalic.woff2') format('woff2'),
+         url('./fonts/Srisakdi-BlackItalic.woff') format('woff'),
+         url('./fonts/Srisakdi-BlackItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiThin';
+    src: url('./fonts/Srisakdi-Thin.eot');
+    src: url('./fonts/Srisakdi-Thin.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-Thin.woff2') format('woff2'),
+         url('./fonts/Srisakdi-Thin.woff') format('woff'),
+         url('./fonts/Srisakdi-Thin.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiExtraLight';
+    src: url('./fonts/Srisakdi-ExtraLight.eot');
+    src: url('./fonts/Srisakdi-ExtraLight.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-ExtraLight.woff2') format('woff2'),
+         url('./fonts/Srisakdi-ExtraLight.woff') format('woff'),
+         url('./fonts/Srisakdi-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiLight';
+    src: url('./fonts/Srisakdi-Light.eot');
+    src: url('./fonts/Srisakdi-Light.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-Light.woff2') format('woff2'),
+         url('./fonts/Srisakdi-Light.woff') format('woff'),
+         url('./fonts/Srisakdi-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiRegular';
+    src: url('./fonts/Srisakdi-Regular.eot');
+    src: url('./fonts/Srisakdi-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-Regular.woff2') format('woff2'),
+         url('./fonts/Srisakdi-Regular.woff') format('woff'),
+         url('./fonts/Srisakdi-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiMedium';
+    src: url('./fonts/Srisakdi-Medium.eot');
+    src: url('./fonts/Srisakdi-Medium.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-Medium.woff2') format('woff2'),
+         url('./fonts/Srisakdi-Medium.woff') format('woff'),
+         url('./fonts/Srisakdi-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiSemiBold';
+    src: url('./fonts/Srisakdi-SemiBold.eot');
+    src: url('./fonts/Srisakdi-SemiBold.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-SemiBold.woff2') format('woff2'),
+         url('./fonts/Srisakdi-SemiBold.woff') format('woff'),
+         url('./fonts/Srisakdi-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiBold';
+    src: url('./fonts/Srisakdi-Bold.eot');
+    src: url('./fonts/Srisakdi-Bold.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-Bold.woff2') format('woff2'),
+         url('./fonts/Srisakdi-Bold.woff') format('woff'),
+         url('./fonts/Srisakdi-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiExtraBold';
+    src: url('./fonts/Srisakdi-ExtraBold.eot');
+    src: url('./fonts/Srisakdi-ExtraBold.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-ExtraBold.woff2') format('woff2'),
+         url('./fonts/Srisakdi-ExtraBold.woff') format('woff'),
+         url('./fonts/Srisakdi-ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiBlack';
+    src: url('./fonts/Srisakdi-Black.eot');
+    src: url('./fonts/Srisakdi-Black.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-Black.woff2') format('woff2'),
+         url('./fonts/Srisakdi-Black.woff') format('woff'),
+         url('./fonts/Srisakdi-Black.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiThin';
+    src: url('./fonts/Srisakdi-Thin.eot');
+    src: url('./fonts/Srisakdi-Thin.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-Thin.woff2') format('woff2'),
+         url('./fonts/Srisakdi-Thin.woff') format('woff'),
+         url('./fonts/Srisakdi-Thin.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiExtraLight';
+    src: url('./fonts/Srisakdi-ExtraLight.eot');
+    src: url('./fonts/Srisakdi-ExtraLight.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-ExtraLight.woff2') format('woff2'),
+         url('./fonts/Srisakdi-ExtraLight.woff') format('woff'),
+         url('./fonts/Srisakdi-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiLight';
+    src: url('./fonts/Srisakdi-Light.eot');
+    src: url('./fonts/Srisakdi-Light.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-Light.woff2') format('woff2'),
+         url('./fonts/Srisakdi-Light.woff') format('woff'),
+         url('./fonts/Srisakdi-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiRegular';
+    src: url('./fonts/Srisakdi-Regular.eot');
+    src: url('./fonts/Srisakdi-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-Regular.woff2') format('woff2'),
+         url('./fonts/Srisakdi-Regular.woff') format('woff'),
+         url('./fonts/Srisakdi-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiMedium';
+    src: url('./fonts/Srisakdi-Medium.eot');
+    src: url('./fonts/Srisakdi-Medium.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-Medium.woff2') format('woff2'),
+         url('./fonts/Srisakdi-Medium.woff') format('woff'),
+         url('./fonts/Srisakdi-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiSemiBold';
+    src: url('./fonts/Srisakdi-SemiBold.eot');
+    src: url('./fonts/Srisakdi-SemiBold.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-SemiBold.woff2') format('woff2'),
+         url('./fonts/Srisakdi-SemiBold.woff') format('woff'),
+         url('./fonts/Srisakdi-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiBold';
+    src: url('./fonts/Srisakdi-Bold.eot');
+    src: url('./fonts/Srisakdi-Bold.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-Bold.woff2') format('woff2'),
+         url('./fonts/Srisakdi-Bold.woff') format('woff'),
+         url('./fonts/Srisakdi-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiExtraBold';
+    src: url('./fonts/Srisakdi-ExtraBold.eot');
+    src: url('./fonts/Srisakdi-ExtraBold.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-ExtraBold.woff2') format('woff2'),
+         url('./fonts/Srisakdi-ExtraBold.woff') format('woff'),
+         url('./fonts/Srisakdi-ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiBlack';
+    src: url('./fonts/Srisakdi-Black.eot');
+    src: url('./fonts/Srisakdi-Black.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-Black.woff2') format('woff2'),
+         url('./fonts/Srisakdi-Black.woff') format('woff'),
+         url('./fonts/Srisakdi-Black.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiThin';
+    src: url('./fonts/Srisakdi-Thin.eot');
+    src: url('./fonts/Srisakdi-Thin.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-Thin.woff2') format('woff2'),
+         url('./fonts/Srisakdi-Thin.woff') format('woff'),
+         url('./fonts/Srisakdi-Thin.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiExtraLight';
+    src: url('./fonts/Srisakdi-ExtraLight.eot');
+    src: url('./fonts/Srisakdi-ExtraLight.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-ExtraLight.woff2') format('woff2'),
+         url('./fonts/Srisakdi-ExtraLight.woff') format('woff'),
+         url('./fonts/Srisakdi-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiLight';
+    src: url('./fonts/Srisakdi-Light.eot');
+    src: url('./fonts/Srisakdi-Light.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-Light.woff2') format('woff2'),
+         url('./fonts/Srisakdi-Light.woff') format('woff'),
+         url('./fonts/Srisakdi-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiRegular';
+    src: url('./fonts/Srisakdi-Regular.eot');
+    src: url('./fonts/Srisakdi-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-Regular.woff2') format('woff2'),
+         url('./fonts/Srisakdi-Regular.woff') format('woff'),
+         url('./fonts/Srisakdi-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiMedium';
+    src: url('./fonts/Srisakdi-Medium.eot');
+    src: url('./fonts/Srisakdi-Medium.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-Medium.woff2') format('woff2'),
+         url('./fonts/Srisakdi-Medium.woff') format('woff'),
+         url('./fonts/Srisakdi-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiSemiBold';
+    src: url('./fonts/Srisakdi-SemiBold.eot');
+    src: url('./fonts/Srisakdi-SemiBold.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-SemiBold.woff2') format('woff2'),
+         url('./fonts/Srisakdi-SemiBold.woff') format('woff'),
+         url('./fonts/Srisakdi-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiBold';
+    src: url('./fonts/Srisakdi-Bold.eot');
+    src: url('./fonts/Srisakdi-Bold.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-Bold.woff2') format('woff2'),
+         url('./fonts/Srisakdi-Bold.woff') format('woff'),
+         url('./fonts/Srisakdi-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiExtraBold';
+    src: url('./fonts/Srisakdi-ExtraBold.eot');
+    src: url('./fonts/Srisakdi-ExtraBold.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-ExtraBold.woff2') format('woff2'),
+         url('./fonts/Srisakdi-ExtraBold.woff') format('woff'),
+         url('./fonts/Srisakdi-ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SrisakdiBlack';
+    src: url('./fonts/Srisakdi-Black.eot');
+    src: url('./fonts/Srisakdi-Black.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Srisakdi-Black.woff2') format('woff2'),
+         url('./fonts/Srisakdi-Black.woff') format('woff'),
+         url('./fonts/Srisakdi-Black.ttf') format('truetype');
+}
+
+#block-1 {
+  color: #000165;
+  background-color: #725717;
+  height: 720px;
+}
+
+#block-1-header {
+  font-family: 'SrisakdiRegular';
+  font-size: 25pt;
+  line-height: 200%;
+  text-align: center;
+  padding-top: 250px;
+}
+
+#name {
+  font-family: 'SrisakdiBold';
+  font-size: 90pt;
+}
+
+#block-2 {
+  color: #000165;
+  background-color: #FFF;
+  font-family: 'SrisakdiRegular';
+  font-size: 42pt;
+  line-height: 140%;
+  text-align: left;
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+
+#block-3 {
+  height: 720px;
+  background: url("img/block03_1.png") no-repeat center;
+  color: #000165;
+  background-color: #725717;
+}
+
+#block-3-text {
+  font-family: 'SrisakdiItalic';
+  font-size: 18pt;
+  line-height: 140%;
+  text-align: right;
+  padding-top: 340px;
+}
+
+#block-4 {
+  height: 720px;
+  background: url("img/block04_1.png") no-repeat center;
+  color: #725717;
+  background-color: #000165;
+}
+
+#block-4-text {
+  font-family: 'SrisakdiThin';
+  font-size: 18pt;
+  line-height: 120%;
+  text-align: right;
+  padding-top: 380px;
+}
+
+#block-5 {
+  color: #725717;
+  background-color: #FFF;
+  padding-bottom: 120px;
+}
+
+#block-5-Title {
+  font-family: 'SrisakdiRegular';
+  font-size: 16pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+
+#block-5-text_sub {
+  font-family: 'SrisakdiLight';
+  font-size: 12pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 20px;
+}
+
+
+#block-5-text0 {
+  font-family: 'SrisakdiThin';
+  font-size: 110pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 80px;
+}
+
+#block-5-text1 {
+  font-family: 'SrisakdiExtraLight';
+  font-size: 110pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 50px;
+}
+
+#block-5-text2 {
+  font-family: 'SrisakdiLight';
+  font-size: 110pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 55px;
+}
+
+#block-5-text3 {
+  font-family: 'SrisakdiRegular';
+  font-size: 110pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 60px;
+}
+
+#block-5-text4 {
+  font-family: 'SrisakdiMedium';
+  font-size: 110pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 65px;
+}
+
+#block-5-text5 {
+  font-family: 'SrisakdiSemiBold';
+  font-size: 110pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 70px;
+}
+
+#block-5-text6 {
+  font-family: 'SrisakdiBold';
+  font-size: 110pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 80px;
+}
+
+#block-5-text7 {
+  font-family: 'SrisakdiExtraBold';
+  font-size: 110pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 80px;
+}
+
+#block-5-text8 {
+  font-family: 'SrisakdiBlack';
+  font-size: 110pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 80px;
+}
+
+#block-5-i {
+  color: #725717;
+  background-color: #FFF;
+  padding-bottom: 120px;
+}
+
+#block-5-i-Title {
+  font-family: 'Srisakdi';
+  font-size: 16pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+
+#block-5-i-text_sub {
+  font-family: 'SrisakdiLight';
+  font-size: 12pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 20px;
+}
+
+
+#block-5-i-text0 {
+  font-family: 'SrisakdiThinItalic';
+  font-size: 110pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 80px;
+}
+
+#block-5-i-text1 {
+  font-family: 'SrisakdiExtraLightItalic';
+  font-size: 110pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 50px;
+}
+
+#block-5-i-text2 {
+  font-family: 'SrisakdiLightItalic';
+  font-size: 110pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 55px;
+}
+
+#block-5-i-text3 {
+  font-family: 'SrisakdiItalic';
+  font-size: 110pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 60px;
+}
+
+#block-5-i-text4 {
+  font-family: 'SrisakdiMediumItalic';
+  font-size: 110pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 65px;
+}
+
+#block-5-i-text5 {
+  font-family: 'SrisakdiSemiBoldItalic';
+  font-size: 110pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 70px;
+}
+
+#block-5-i-text6 {
+  font-family: 'SrisakdiBoldItalic';
+  font-size: 110pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 80px;
+}
+
+#block-5-i-text7 {
+  font-family: 'SrisakdiExtraBoldItalic';
+  font-size: 110pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 80px;
+}
+
+#block-5-i-text8 {
+  font-family: 'SrisakdiBlackItalic';
+  font-size: 110pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 80px;
+}
+
+#block-6 {
+  height: 720px;
+  background-color: #000165;
+}
+
+#block-7-1 {
+  background: url("img/block07_1.jpg") no-repeat center;
+  background-size: cover;
+  height: 720px;
+  color: #FFF;
+  background-color: #000165;
+}
+
+#block-7-1-text {
+  font-family: 'SrisakdiItalic';
+  font-size: 16pt;
+  line-height: 150%;
+  text-align: left;
+  padding-top: 250px;
+}
+
+#block-7-2 {
+  background: url("img/block07_2.jpg") no-repeat center;
+  background-size: cover;
+  height: 720px;
+  color: #FFF;
+  background-color: #000165;
+}
+
+#block-7-2-text {
+  font-family: 'SrisakdiBold';
+  font-size: 18pt;
+  line-height: 150%;
+  text-align: left;
+  padding-top: 470px;
+}
+
+#block-7-3 {
+  background: url("img/block07_3.jpg") no-repeat center;
+  background-size: cover;
+  height: 720px;
+  color: #FFF;
+  background-color: #000165;
+}
+
+#block-7-3-text1 {
+  font-family: 'SrisakdiThinItalic';
+  font-size: 13pt;
+  line-height: 150%;
+  text-align: left;
+  padding-top: 500px;
+}
+
+#block-7-3-text2 {
+  font-family: 'SrisakdiExtraBoldItalic';
+  font-size: 13pt;
+  line-height: 150%;
+  text-align: left;
+  padding-top: 500px;
+}
+
+#block-Title {
+  color: #999999;
+  font-family: 'SrisakdiLight';
+  font-size: 12pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+#block-Title-1 {
+  color: #999999;
+  font-family: 'SrisakdiLight';
+  font-size: 12pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+#block-Title-2 {
+  color: #999999;
+  font-family: 'SrisakdiLight';
+  font-size: 12pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+ul.nav > li > a {
+  color: #999999;
+  font-family: 'SrisakdiLight';
+  font-size: 12pt;
+  text-align: center;
+  letter-spacing: 0px;
+}
+
+ul.nav > li.active > a {
+  color: #FFF;
+  background-color: #725717;
+  font-family: 'SrisakdiSemiBold';
+  font-size: 12pt;
+  text-align: center;
+  letter-spacing: 0px;
+}
+
+#block-9 {
+  color: #725717;
+  background-color: #FFF;
+  padding-top: 80px;
+  padding-bottom: 50px;
+  text-align: left;
+}
+
+#block-9-Title {
+  font-family: 'SrisakdiLight';
+  font-size: 12pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+#block-9-Char {
+  font-family: 'SrisakdiThin';
+  font-size: 22pt;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-9-Num {
+  font-family: 'SrisakdiThin';
+  font-size: 22pt;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-9-Vowel {
+  font-family: 'SrisakdiThin';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-9-Sp-Char {
+  font-family: 'SrisakdiThin';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-9-Symbol {
+  font-family: 'SrisakdiThin';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-9-Ac-Char {
+  font-family: 'SrisakdiThin';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-9-Text1 {
+  font-family: 'SrisakdiThin';
+  line-height: 125%;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-9-Text2 {
+  font-family: 'SrisakdiThin';
+  line-height: 125%;
+  font-size: 18pt;
+  text-align: left;
+}
+
+#block-9-Text3 {
+  font-family: 'SrisakdiThin';
+  line-height: 150%;
+  font-size: 24pt;
+  text-align: left;
+}
+
+#block-9-i {
+  color: #725717;
+  background-color: #FFF;
+  padding-top: 80px;
+  padding-bottom: 50px;
+  text-align: left;
+}
+
+#block-9-i-Title {
+  font-family: 'SrisakdiLight';
+  font-size: 12pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+#block-9-i-Char {
+  font-family: 'SrisakdiThinItalic';
+  font-size: 22pt;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-9-i-Num {
+  font-family: 'SrisakdiThinItalic';
+  font-size: 22pt;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-9-i-Vowel {
+  font-family: 'SrisakdiThinItalic';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-9-i-Sp-Char {
+  font-family: 'SrisakdiThinItalic';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-9-i-Symbol {
+  font-family: 'SrisakdiThinItalic';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-9-i-Ac-Char {
+  font-family: 'SrisakdiThinItalic';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-9-i-Text1 {
+  font-family: 'SrisakdiThinItalic';
+  line-height: 125%;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-9-i-Text2 {
+  font-family: 'SrisakdiThinItalic';
+  line-height: 125%;
+  font-size: 18pt;
+  text-align: left;
+}
+
+#block-9-i-Text3 {
+  font-family: 'SrisakdiThinItalic';
+  line-height: 150%;
+  font-size: 24pt;
+  text-align: left;
+}
+
+#block-10 {
+  color: #725717;
+  background-color: #FFF;
+  padding-top: 80px;
+  padding-bottom: 50px;
+  text-align: left;
+}
+
+#block-10-Title {
+  font-family: 'SrisakdiLight';
+  font-size: 12pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+#block-10-Char {
+  font-family: 'SrisakdiExtraLight';
+  font-size: 22pt;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-10-Num {
+  font-family: 'SrisakdiExtraLight';
+  font-size: 22pt;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-10-Vowel {
+  font-family: 'SrisakdiExtraLight';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-10-Sp-Char {
+  font-family: 'SrisakdiExtraLight';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-10-Symbol {
+  font-family: 'SrisakdiExtraLight';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-10-Ac-Char {
+  font-family: 'SrisakdiExtraLight';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-10-Text1 {
+  font-family: 'SrisakdiExtraLight';
+  line-height: 125%;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-10-Text2 {
+  font-family: 'SrisakdiExtraLight';
+  line-height: 125%;
+  font-size: 18pt;
+  text-align: left;
+}
+
+#block-10-Text3 {
+  font-family: 'SrisakdiExtraLight';
+  line-height: 150%;
+  font-size: 24pt;
+  text-align: left;
+}
+
+#block-10-i {
+  color: #725717;
+  background-color: #FFF;
+  padding-top: 80px;
+  padding-bottom: 50px;
+  text-align: left;
+}
+
+#block-10-i-Title {
+  font-family: 'SrisakdiLight';
+  font-size: 12pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+#block-10-i-Char {
+  font-family: 'SrisakdiExtraLightItalic';
+  font-size: 22pt;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-10-i-Num {
+  font-family: 'SrisakdiExtraLightItalic';
+  font-size: 22pt;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-10-i-Vowel {
+  font-family: 'SrisakdiExtraLightItalic';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-10-i-Sp-Char {
+  font-family: 'SrisakdiExtraLightItalic';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-10-i-Symbol {
+  font-family: 'SrisakdiExtraLightItalic';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-10-i-Ac-Char {
+  font-family: 'SrisakdiExtraLightItalic';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-10-i-Text1 {
+  font-family: 'SrisakdiExtraLightItalic';
+  line-height: 125%;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-10-i-Text2 {
+  font-family: 'SrisakdiExtraLightItalic';
+  line-height: 125%;
+  font-size: 18pt;
+  text-align: left;
+}
+
+#block-10-i-Text3 {
+  font-family: 'SrisakdiExtraLightItalic';
+  line-height: 150%;
+  font-size: 24pt;
+  text-align: left;
+}
+
+#block-11 {
+  color: #725717;
+  background-color: #FFF;
+  padding-top: 80px;
+  padding-bottom: 50px;
+  text-align: left;
+}
+
+#block-11-Title {
+  font-family: 'SrisakdiLight';
+  font-size: 12pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+#block-11-Char {
+  font-family: 'SrisakdiLight';
+  font-size: 22pt;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-11-Num {
+  font-family: 'SrisakdiLight';
+  font-size: 22pt;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-11-Vowel {
+  font-family: 'SrisakdiLight';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-11-Sp-Char {
+  font-family: 'SrisakdiLight';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-11-Symbol {
+  font-family: 'SrisakdiLight';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-11-Ac-Char {
+  font-family: 'SrisakdiLight';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-11-Text1 {
+  font-family: 'SrisakdiLight';
+  line-height: 125%;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-11-Text2 {
+  font-family: 'SrisakdiLight';
+  line-height: 125%;
+  font-size: 18pt;
+  text-align: left;
+}
+
+#block-11-Text3 {
+  font-family: 'SrisakdiLight';
+  line-height: 150%;
+  font-size: 24pt;
+  text-align: left;
+}
+
+#block-11-i {
+  color: #725717;
+  background-color: #FFF;
+  padding-top: 80px;
+  padding-bottom: 50px;
+  text-align: left;
+}
+
+#block-11-i-Title {
+  font-family: 'SrisakdiLight';
+  font-size: 12pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+#block-11-i-Char {
+  font-family: 'SrisakdiLightItalic';
+  font-size: 22pt;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-11-i-Num {
+  font-family: 'SrisakdiLightItalic';
+  font-size: 22pt;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-11-i-Vowel {
+  font-family: 'SrisakdiLightItalic';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-11-i-Sp-Char {
+  font-family: 'SrisakdiLightItalic';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-11-i-Symbol {
+  font-family: 'SrisakdiLightItalic';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-11-i-Ac-Char {
+  font-family: 'SrisakdiLightItalic';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-11-i-Text1 {
+  font-family: 'SrisakdiLightItalic';
+  line-height: 125%;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-11-i-Text2 {
+  font-family: 'SrisakdiLightItalic';
+  line-height: 125%;
+  font-size: 18pt;
+  text-align: left;
+}
+
+#block-11-i-Text3 {
+  font-family: 'SrisakdiLightItalic';
+  line-height: 150%;
+  font-size: 24pt;
+  text-align: left;
+}
+
+#block-12 {
+  color: #725717;
+  background-color: #FFF;
+  padding-top: 80px;
+  padding-bottom: 50px;
+  text-align: left;
+}
+
+#block-12-Title {
+  font-family: 'SrisakdiLight';
+  font-size: 12pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+#block-12-Char {
+  font-family: 'SrisakdiRegular';
+  font-size: 22pt;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-12-Num {
+  font-family: 'SrisakdiRegular';
+  font-size: 22pt;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-12-Vowel {
+  font-family: 'SrisakdiRegular';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-12-Sp-Char {
+  font-family: 'SrisakdiRegular';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-12-Symbol {
+  font-family: 'SrisakdiRegular';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-12-Ac-Char {
+  font-family: 'SrisakdiRegular';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-12-Text1 {
+  font-family: 'SrisakdiRegular';
+  line-height: 125%;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-12-Text2 {
+  font-family: 'SrisakdiRegular';
+  line-height: 125%;
+  font-size: 18pt;
+  text-align: left;
+}
+
+#block-12-Text3 {
+  font-family: 'SrisakdiRegular';
+  line-height: 150%;
+  font-size: 24pt;
+  text-align: left;
+}
+
+#block-12-i {
+  color: #725717;
+  background-color: #FFF;
+  padding-top: 80px;
+  padding-bottom: 50px;
+  text-align: left;
+}
+
+#block-12-i-Title {
+  font-family: 'SrisakdiLight';
+  font-size: 12pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+#block-12-i-Char {
+  font-family: 'SrisakdiItalic';
+  font-size: 22pt;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-12-i-Num {
+  font-family: 'SrisakdiItalic';
+  font-size: 22pt;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-12-i-Vowel {
+  font-family: 'SrisakdiItalic';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-12-i-Sp-Char {
+  font-family: 'SrisakdiItalic';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-12-i-Symbol {
+  font-family: 'SrisakdiItalic';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-12-i-Ac-Char {
+  font-family: 'SrisakdiItalic';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-12-i-Text1 {
+  font-family: 'SrisakdiItalic';
+  line-height: 125%;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-12-i-Text2 {
+  font-family: 'SrisakdiItalic';
+  line-height: 125%;
+  font-size: 18pt;
+  text-align: left;
+}
+
+#block-12-i-Text3 {
+  font-family: 'SrisakdiItalic';
+  line-height: 150%;
+  font-size: 24pt;
+  text-align: left;
+}
+
+#block-13 {
+  color: #725717;
+  background-color: #FFF;
+  padding-top: 80px;
+  padding-bottom: 50px;
+  text-align: left;
+}
+
+#block-13-Title {
+  font-family: 'SrisakdiLight';
+  font-size: 12pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+#block-13-Char {
+  font-family: 'SrisakdiMedium';
+  font-size: 22pt;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-13-Num {
+  font-family: 'SrisakdiMedium';
+  font-size: 22pt;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-13-Vowel {
+  font-family: 'SrisakdiMedium';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-13-Sp-Char {
+  font-family: 'SrisakdiMedium';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-13-Symbol {
+  font-family: 'SrisakdiMedium';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-13-Ac-Char {
+  font-family: 'SrisakdiMedium';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-13-Text1 {
+  font-family: 'SrisakdiMedium';
+  line-height: 125%;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-13-Text2 {
+  font-family: 'SrisakdiMedium';
+  line-height: 125%;
+  font-size: 18pt;
+  text-align: left;
+}
+
+#block-13-Text3 {
+  font-family: 'SrisakdiMedium';
+  line-height: 150%;
+  font-size: 24pt;
+  text-align: left;
+}
+
+#block-13-i {
+  color: #725717;
+  background-color: #FFF;
+  padding-top: 80px;
+  padding-bottom: 50px;
+  text-align: left;
+}
+
+#block-13-i-Title {
+  font-family: 'SrisakdiLight';
+  font-size: 12pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+#block-13-i-Char {
+  font-family: 'SrisakdiMediumItalic';
+  font-size: 22pt;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-13-i-Num {
+  font-family: 'SrisakdiMediumItalic';
+  font-size: 22pt;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-13-i-Vowel {
+  font-family: 'SrisakdiMediumItalic';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-13-i-Sp-Char {
+  font-family: 'SrisakdiMediumItalic';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-13-i-Symbol {
+  font-family: 'SrisakdiMediumItalic';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-13-i-Ac-Char {
+  font-family: 'SrisakdiMediumItalic';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-13-i-Text1 {
+  font-family: 'SrisakdiMediumItalic';
+  line-height: 125%;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-13-i-Text2 {
+  font-family: 'SrisakdiMediumItalic';
+  line-height: 125%;
+  font-size: 18pt;
+  text-align: left;
+}
+
+#block-13-i-Text3 {
+  font-family: 'SrisakdiMediumItalic';
+  line-height: 150%;
+  font-size: 24pt;
+  text-align: left;
+}
+
+#block-14 {
+  color: #725717;
+  background-color: #FFF;
+  padding-top: 80px;
+  padding-bottom: 50px;
+  text-align: left;
+}
+
+#block-14-Title {
+  font-family: 'SrisakdiLight';
+  font-size: 12pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+#block-14-Char {
+  font-family: 'SrisakdiSemiBold';
+  font-size: 22pt;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-14-Num {
+  font-family: 'SrisakdiSemiBold';
+  font-size: 22pt;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-14-Vowel {
+  font-family: 'SrisakdiSemiBold';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-14-Sp-Char {
+  font-family: 'SrisakdiSemiBold';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-14-Symbol {
+  font-family: 'SrisakdiSemiBold';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-14-Ac-Char {
+  font-family: 'SrisakdiSemiBold';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-14-Text1 {
+  font-family: 'SrisakdiSemiBold';
+  line-height: 125%;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-14-Text2 {
+  font-family: 'SrisakdiSemiBold';
+  line-height: 125%;
+  font-size: 18pt;
+  text-align: left;
+}
+
+#block-14-Text3 {
+  font-family: 'SrisakdiSemiBold';
+  line-height: 150%;
+  font-size: 24pt;
+  text-align: left;
+}
+
+#block-14-i {
+  color: #725717;
+  background-color: #FFF;
+  padding-top: 80px;
+  padding-bottom: 50px;
+  text-align: left;
+}
+
+#block-14-i-Title {
+  font-family: 'SrisakdiLight';
+  font-size: 12pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+#block-14-i-Char {
+  font-family: 'SrisakdiSemiBoldItalic';
+  font-size: 22pt;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-14-i-Num {
+  font-family: 'SrisakdiSemiBoldItalic';
+  font-size: 22pt;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-14-i-Vowel {
+  font-family: 'SrisakdiSemiBoldItalic';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-14-i-Sp-Char {
+  font-family: 'SrisakdiSemiBoldItalic';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-14-i-Symbol {
+  font-family: 'SrisakdiSemiBoldItalic';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-14-i-Ac-Char {
+  font-family: 'SrisakdiSemiBoldItalic';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-14-i-Text1 {
+  font-family: 'SrisakdiSemiBoldItalic';
+  line-height: 125%;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-14-i-Text2 {
+  font-family: 'SrisakdiSemiBoldItalic';
+  line-height: 125%;
+  font-size: 18pt;
+  text-align: left;
+}
+
+#block-14-i-Text3 {
+  font-family: 'SrisakdiSemiBoldItalic';
+  line-height: 150%;
+  font-size: 24pt;
+  text-align: left;
+}
+
+
+#block-15 {
+  color: #725717;
+  background-color: #FFF;
+  padding-top: 80px;
+  padding-bottom: 50px;
+  text-align: left;
+}
+
+#block-15-Title {
+  font-family: 'SrisakdiLight';
+  font-size: 12pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+#block-15-Char {
+  font-family: 'SrisakdiBold';
+  font-size: 22pt;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-15-Num {
+  font-family: 'SrisakdiBold';
+  font-size: 22pt;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-15-Vowel {
+  font-family: 'SrisakdiBold';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-15-Sp-Char {
+  font-family: 'SrisakdiBold';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-15-Symbol {
+  font-family: 'SrisakdiBold';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-15-Ac-Char {
+  font-family: 'SrisakdiBold';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-15-Text1 {
+  font-family: 'SrisakdiBold';
+  line-height: 125%;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-15-Text2 {
+  font-family: 'SrisakdiBold';
+  line-height: 125%;
+  font-size: 18pt;
+  text-align: left;
+}
+
+#block-15-Text3 {
+  font-family: 'SrisakdiBold';
+  line-height: 150%;
+  font-size: 24pt;
+  text-align: left;
+}
+
+#block-15-i {
+  color: #725717;
+  background-color: #FFF;
+  padding-top: 80px;
+  padding-bottom: 50px;
+  text-align: left;
+}
+
+#block-15-i-Title {
+  font-family: 'SrisakdiLight';
+  font-size: 12pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+#block-15-i-Char {
+  font-family: 'SrisakdiBoldItalic';
+  font-size: 22pt;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-15-i-Num {
+  font-family: 'SrisakdiBoldItalic';
+  font-size: 22pt;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-15-i-Vowel {
+  font-family: 'SrisakdiBoldItalic';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-15-i-Sp-Char {
+  font-family: 'SrisakdiBoldItalic';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-15-i-Symbol {
+  font-family: 'SrisakdiBoldItalic';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-15-i-Ac-Char {
+  font-family: 'SrisakdiBoldItalic';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-15-i-Text1 {
+  font-family: 'SrisakdiBoldItalic';
+  line-height: 125%;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-15-i-Text2 {
+  font-family: 'SrisakdiBoldItalic';
+  line-height: 125%;
+  font-size: 18pt;
+  text-align: left;
+}
+
+#block-15-i-Text3 {
+  font-family: 'SrisakdiBoldItalic';
+  line-height: 150%;
+  font-size: 24pt;
+  text-align: left;
+}
+
+#block-16 {
+  color: #725717;
+  background-color: #FFF;
+  padding-top: 80px;
+  padding-bottom: 50px;
+  text-align: left;
+}
+
+#block-16-Title {
+  font-family: 'SrisakdiLight';
+  font-size: 12pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+#block-16-Char {
+  font-family: 'SrisakdiExtraBold';
+  font-size: 22pt;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-16-Num {
+  font-family: 'SrisakdiExtraBold';
+  font-size: 22pt;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-16-Vowel {
+  font-family: 'SrisakdiExtraBold';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-16-Sp-Char {
+  font-family: 'SrisakdiExtraBold';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-16-Symbol {
+  font-family: 'SrisakdiExtraBold';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-16-Ac-Char {
+  font-family: 'SrisakdiExtraBold';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-16-Text1 {
+  font-family: 'SrisakdiExtraBold';
+  line-height: 125%;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-16-Text2 {
+  font-family: 'SrisakdiExtraBold';
+  line-height: 125%;
+  font-size: 18pt;
+  text-align: left;
+}
+
+#block-16-Text3 {
+  font-family: 'SrisakdiExtraBold';
+  line-height: 150%;
+  font-size: 24pt;
+  text-align: left;
+}
+
+#block-16-i {
+  color: #725717;
+  background-color: #FFF;
+  padding-top: 80px;
+  padding-bottom: 50px;
+  text-align: left;
+}
+
+#block-16-i-Title {
+  font-family: 'SrisakdiLight';
+  font-size: 12pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+#block-16-i-Char {
+  font-family: 'SrisakdiExtraBoldItalic';
+  font-size: 22pt;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-16-i-Num {
+  font-family: 'SrisakdiExtraBoldItalic';
+  font-size: 22pt;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-16-i-Vowel {
+  font-family: 'SrisakdiExtraBoldItalic';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-16-i-Sp-Char {
+  font-family: 'SrisakdiExtraBoldItalic';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-16-i-Symbol {
+  font-family: 'SrisakdiExtraBoldItalic';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-16-i-Ac-Char {
+  font-family: 'SrisakdiExtraBoldItalic';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-16-i-Text1 {
+  font-family: 'SrisakdiExtraBoldItalic';
+  line-height: 125%;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-16-i-Text2 {
+  font-family: 'SrisakdiExtraBoldItalic';
+  line-height: 125%;
+  font-size: 18pt;
+  text-align: left;
+}
+
+#block-16-i-Text3 {
+  font-family: 'SrisakdiExtraBoldItalic';
+  line-height: 150%;
+  font-size: 24pt;
+  text-align: left;
+}
+
+#block-17 {
+  color: #725717;
+  background-color: #FFF;
+  padding-top: 80px;
+  padding-bottom: 50px;
+  text-align: left;
+}
+
+#block-17-Title {
+  font-family: 'SrisakdiLight';
+  font-size: 12pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+#block-17-Char {
+  font-family: 'SrisakdiBlack';
+  font-size: 22pt;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-17-Num {
+  font-family: 'SrisakdiBlack';
+  font-size: 22pt;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-17-Vowel {
+  font-family: 'SrisakdiBlack';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-17-Sp-Char {
+  font-family: 'SrisakdiBlack';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-17-Symbol {
+  font-family: 'SrisakdiBlack';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-17-Ac-Char {
+  font-family: 'SrisakdiBlack';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-17-Text1 {
+  font-family: 'SrisakdiBlack';
+  line-height: 125%;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-17-Text2 {
+  font-family: 'SrisakdiBlack';
+  line-height: 125%;
+  font-size: 18pt;
+  text-align: left;
+}
+
+#block-17-Text3 {
+  font-family: 'SrisakdiBlack';
+  line-height: 150%;
+  font-size: 24pt;
+  text-align: left;
+}
+
+#block-17-i {
+  color: #725717;
+  background-color: #FFF;
+  padding-top: 80px;
+  padding-bottom: 50px;
+  text-align: left;
+}
+
+#block-17-i-Title {
+  font-family: 'SrisakdiLight';
+  font-size: 12pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+#block-17-i-Char {
+  font-family: 'SrisakdiBlackItalic';
+  font-size: 22pt;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-17-i-Num {
+  font-family: 'SrisakdiBlackItalic';
+  font-size: 22pt;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-17-i-Vowel {
+  font-family: 'SrisakdiBlackItalic';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-17-i-Sp-Char {
+  font-family: 'SrisakdiBlackItalic';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-17-i-Symbol {
+  font-family: 'SrisakdiBlackItalic';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-17-i-Ac-Char {
+  font-family: 'SrisakdiBlackItalic';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-17-i-Text1 {
+  font-family: 'SrisakdiBlackItalic';
+  line-height: 125%;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-17-i-Text2 {
+  font-family: 'SrisakdiBlackItalic';
+  line-height: 125%;
+  font-size: 18pt;
+  text-align: left;
+}
+
+#block-17-i-Text3 {
+  font-family: 'SrisakdiBlackItalic';
+  line-height: 150%;
+  font-size: 24pt;
+  text-align: left;
+}
+
+#Line1 {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #725717;
+}
+
+#Line2 {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #725717;
+}
